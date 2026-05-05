@@ -1,5 +1,9 @@
 class Solution:
     def threeSum(self, nums):
+        # Time complexity is O(N2) because we have outer loop For and then the while loips,
+        # This leads to O(n2)
+        # For space we dont count the result array so it will be O(1) or we may consider O(N) 
+        # because of sorting 
         nums.sort()
         n = len(nums)
         result = []
