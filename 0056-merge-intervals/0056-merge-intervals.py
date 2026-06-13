@@ -6,14 +6,14 @@ class Solution(object):
         intervals.sort()
         resulted_arr = []
         resulted_arr.append(intervals[0])
-        current_index = 0
+ 
 
         for i in range(1, len(intervals)):
-            if intervals[i][0] <= resulted_arr[current_index][1]:
-                resulted_arr[current_index][1] = max(resulted_arr[current_index][1], intervals[i][1])
+            if intervals[i][0] <= resulted_arr[-1][1]:
+                resulted_arr[-1][1] = max(resulted_arr[-1][1], intervals[i][1])
             else:
                 resulted_arr.append(intervals[i])
-                current_index += 1
+           
 
         return resulted_arr
 
