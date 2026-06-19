@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -75,9 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0053-maximum-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
