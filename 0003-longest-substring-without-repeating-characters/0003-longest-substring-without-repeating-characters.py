@@ -1,25 +1,31 @@
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
 
-        left = 0
-        visited = set()
-        max_len = 0
+        l = 0
+        max_count = 0
+        seen = set()
+        
+        for r in range(len(s)):
+        
+            current_char = s[r] # d
 
-        for right in range(len(s)):
-            # 1. If s[right] is already in visited, we MUST shrink from the left
-            # until s[right] is removed.
-            while s[right] in visited:
-                visited.remove(s[left])
-                left += 1
+            if current_char not in seen:
+                seen.add(current_char)     # (d v)
+            else:
+                while current_char in seen:
+                    seen.remove(s[l])   
+                    l += 1
+                seen.add(current_char)
+
+            current_count = r - l + 1 # 2
+            max_count = max(max_count, current_count) # 2
+
+
+        return max_count
+
             
-            visited.add(s[right])
-   
+
             
-            # Update max_len (The window [left...right] is now valid!)
-            max_len = max(max_len, (right - left) + 1)
+
             
-        return max_len
-
-
-
 
