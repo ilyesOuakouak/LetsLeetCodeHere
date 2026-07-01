@@ -20,14 +20,12 @@ class Solution(object):
             current_level = []
             for _ in range(size_queue):
                 current_element = queue.popleft()
+                current_level.append(current_element.val)
 
-                if current_element:
-                    current_level.append(current_element.val)
-
-                    if current_element.left:
-                        queue.append(current_element.left)
-                    if current_element.right:
-                        queue.append(current_element.right)
+                if current_element.left:
+                    queue.append(current_element.left)
+                if current_element.right:
+                    queue.append(current_element.right)
                 
             result.append(current_level)
 
@@ -35,7 +33,29 @@ class Solution(object):
 
 
 
+"""
+        queue = deque([root])
+        
+        result = []
 
+        while queue:
+            size = len(queue)
+            level = []
+            if not root:
+                return []
+                
+            for _ in range(size):
+                node = queue.popleft()
+                level.append(node.val)
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
+                
+            result.append(level)
+            
+        return result
+"""
 
 
 
