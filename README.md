@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0155-min-stack) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
