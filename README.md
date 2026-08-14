@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0242-valid-anagram) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0020-valid-parentheses) |
+| [0139-word-break](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0322-coin-change) |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0139-word-break) |
 ## Tree
 |  |
 | ------- |
@@ -169,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
