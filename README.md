@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0242-valid-anagram) |
+| [1143-longest-common-subsequence](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0322-coin-change) |
+| [1143-longest-common-subsequence](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0139-word-break) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
