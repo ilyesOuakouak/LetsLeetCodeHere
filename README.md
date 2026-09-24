@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
@@ -251,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0207-course-schedule) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
