@@ -19,10 +19,7 @@ class Solution(object):
 
             max_char = max(max_char, r - l + 1)
 
-           
-            
-        print(len(seen))
-
+    
         return max_char
 
 
