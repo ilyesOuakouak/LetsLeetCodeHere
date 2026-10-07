@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -299,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0202-happy-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
