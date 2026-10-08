@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0139-word-break) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0994-rotting-oranges) |
 ## Prefix Sum
