@@ -12,22 +12,18 @@ class Solution:
         left = 1
         right = max(piles)
         answer = max(piles)
-        total = 0
 
         while left <= right:
             mid = (left + right) // 2
 
             # note that mid is k
             total = self.hours_needed(piles, mid)
-            
 
             if total <= h:
                 answer = mid
                 right = mid - 1
             else:
                 left = mid + 1
-          
-            
         
         return answer 
 
