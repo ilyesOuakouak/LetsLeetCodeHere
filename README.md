@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
