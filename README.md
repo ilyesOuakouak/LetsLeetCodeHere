@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0347-top-k-frequent-elements) |
 | [0518-coin-change-ii](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0739-daily-temperatures) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0347-top-k-frequent-elements) |
 ## Memoization
 |  |
 | ------- |
@@ -323,4 +327,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0022-generate-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
