@@ -2,7 +2,6 @@ class Solution:
     def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
         
         dic = {}
-        result = []
 
         for s in strs:
             my_tuple = [0] * 27
@@ -15,12 +14,8 @@ class Solution:
             if key not in dic:
                 dic[key] = []
             dic[key].append(s)
-            
-                
-        for key, val in dic.items():
-            result.append(val)
 
-        return result
+        return list(dic.values())
             
             
 
