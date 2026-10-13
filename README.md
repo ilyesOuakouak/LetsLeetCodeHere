@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0139-word-break) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1143-longest-common-subsequence) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0079-word-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0994-rotting-oranges) |
 ## Prefix Sum
