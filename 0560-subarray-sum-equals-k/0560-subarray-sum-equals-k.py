@@ -10,11 +10,10 @@ class Solution:
 
             if total_prefix_sum - k in seen:
                 result += seen[total_prefix_sum - k]
-                seen[total_prefix_sum] = seen.get(total_prefix_sum, 0) + 1
-            else:
-                seen[total_prefix_sum] = seen.get(total_prefix_sum, 0) + 1
+                
+            seen[total_prefix_sum] = seen.get(total_prefix_sum, 0) + 1
 
-        print(seen)
+    
         return result
 
 
