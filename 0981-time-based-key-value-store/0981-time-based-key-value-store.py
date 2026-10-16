@@ -16,7 +16,7 @@ class TimeMap:
 
         left = 0
         right = len(my_list) - 1
-        saved = 0
+        saved = ""
 
         while left <= right:
             mid = (left + right) // 2
@@ -27,15 +27,8 @@ class TimeMap:
             else:
                 right = mid - 1
 
-        return saved if saved else ""
+        return saved
 
 
 
-            
-        
-
-
-# Your TimeMap object will be instantiated and called as such:
-# obj = TimeMap()
-# obj.set(key,value,timestamp)
-# param_2 = obj.get(key,timestamp)
+    
