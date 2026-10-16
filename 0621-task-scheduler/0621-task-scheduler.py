@@ -1,5 +1,20 @@
 class Solution:
     def leastInterval(self, tasks: list[str], n: int) -> int:
+
+        counts = {}
+        for task in tasks:
+            counts[task] = counts.get(task, 0) + 1
+
+        highest = max(counts.values())
+
+        tied = 0
+        for count in counts.values():
+            if count == highest:
+                tied += 1
+
+        return max((highest - 1) * (n + 1) + tied, len(tasks))
+
+        """
         dic = {}
         remaining = len(tasks)
         result = 0
@@ -31,3 +46,5 @@ class Solution:
             result += 1      # every slot counts, a task or an idle
 
         return result
+
+        """
