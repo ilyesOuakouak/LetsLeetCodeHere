@@ -11,9 +11,10 @@ class Solution:
                     ways[r][c] = 0
                 elif r == 0 and c == 0:
                     ways[r][c] = 1
-                elif r < 0 or c < 0 or r >= m or c >= n:
-                    ways[r][c] = 0
+                
                 else:
-                    ways[r][c] = ways[r-1][c] + ways[r][c - 1]
+                    above = ways[r - 1][c] if r > 0 else 0
+                    left = ways[r][c - 1] if c > 0 else 0
+                    ways[r][c] = above + left
 
         return ways[m - 1][n - 1]
