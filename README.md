@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0621-task-scheduler) |
 | [0981-time-based-key-value-store](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0981-time-based-key-value-store) |
 ## String
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
