@@ -11,8 +11,10 @@ class Solution:
             '9': "wxyz"
         }
 
-        
         results = [""]
+
+        if not digits:
+            return []
 
         for digit in digits:
             new_result = []
