@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0981-time-based-key-value-store) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
 | ------- |
