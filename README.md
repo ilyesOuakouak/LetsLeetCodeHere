@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0684-redundant-connection) |
 | [0994-rotting-oranges](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
