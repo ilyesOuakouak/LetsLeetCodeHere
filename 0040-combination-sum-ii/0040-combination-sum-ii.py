@@ -1,26 +1,24 @@
 class Solution:
-    def combinationSum2(self, candidates: list[int], target: int) -> list[list[int]]:
-        subsets = []
-        path = []
-        result = []
-
+    def combinationSum2(self, candidates, target):
         nums = sorted(candidates)
+        result = []
+        path = []
 
-        def recursion(start):
-            if sum(path) == target:
-                subsets.append(path[:])
-            
+        def backtrack(start, remaining):
+            if remaining == 0:       
+                result.append(path[:])
+                return                     
+
             for i in range(start, len(nums)):
-                if i > start and nums[i] == nums[i-1]:
-                    continue
-                
-                if nums[i] > target - sum(path):
-                    return 
-                    
-                path.append(nums[i])
-                recursion(i + 1)
-                path.pop()
-            
-        recursion(0)
+                if i > start and nums[i] == nums[i - 1]:
+                    continue                   
+                if nums[i] > remaining:
+                    break                      
 
-        return subsets
+                path.append(nums[i])
+                backtrack(i + 1, remaining - nums[i])
+                path.pop()
+
+        backtrack(0, target)
+        
+        return result
