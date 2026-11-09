@@ -1,5 +1,5 @@
-class Solution(object):
-    def partition(self, s):
+class Solution:
+    def partition(self, s: str) -> list[list[str]]:
         result = []
         path = []
     
@@ -30,4 +30,3 @@ class Solution(object):
             right -= 1
             
         return True
-        
