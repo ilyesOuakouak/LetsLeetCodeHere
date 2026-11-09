@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0752-open-the-lock) |
 | [0875-koko-eating-bananas](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0621-task-scheduler) |
+| [0752-open-the-lock](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0752-open-the-lock) |
 | [0981-time-based-key-value-store](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0567-permutation-in-string) |
+| [0752-open-the-lock](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0752-open-the-lock) |
 | [0981-time-based-key-value-store](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -466,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0743-network-delay-time) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
