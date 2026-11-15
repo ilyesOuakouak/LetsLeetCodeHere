@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0242-valid-anagram) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0208-implement-trie-prefix-tree) |
 | [0981-time-based-key-value-store](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0981-time-based-key-value-store) |
@@ -477,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0752-open-the-lock) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
