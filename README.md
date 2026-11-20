@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0621-task-scheduler) |
 | [0752-open-the-lock](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0752-open-the-lock) |
+| [0763-partition-labels](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0567-permutation-in-string) |
 | [0752-open-the-lock](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0752-open-the-lock) |
+| [0763-partition-labels](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0763-partition-labels) |
 ## Combinatorics
 |  |
 | ------- |
