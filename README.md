@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0981-time-based-key-value-store) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Dynamic Programming
 |  |
 | ------- |
