@@ -7,10 +7,10 @@
 class Solution:
     def buildTree(self, preorder: list[int], inorder: list[int]) -> TreeNode | None:
         """ O(n) time """
-        idx = {val: i for i, val in enumerate(inorder)}   # value → position in inorder, built once
-        pre = 0                                           # next root to use in preorder
+        idx = {val: i for i, val in enumerate(inorder)}  
+        pre = 0                                          
 
-        def build(left, right):            # build the tree from inorder[left..right]
+        def build(left, right):           
             nonlocal pre
             if left > right:               # empty range → no node
                 return None
