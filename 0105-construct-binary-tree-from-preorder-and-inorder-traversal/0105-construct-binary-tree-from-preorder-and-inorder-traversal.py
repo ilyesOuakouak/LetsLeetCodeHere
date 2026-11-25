@@ -6,8 +6,27 @@
 #         self.right = right
 class Solution:
     def buildTree(self, preorder: list[int], inorder: list[int]) -> TreeNode | None:
-        # preorder = root, left, right
-        # inorder = left, root, right
+        """ O(n) time """
+        idx = {val: i for i, val in enumerate(inorder)}   # value → position in inorder, built once
+        pre = 0                                           # next root to use in preorder
+
+        def build(left, right):            # build the tree from inorder[left..right]
+            nonlocal pre
+            if left > right:               # empty range → no node
+                return None
+
+            root_val = preorder[pre]       # next root, in preorder order
+            pre += 1
+            root = TreeNode(root_val)
+
+            mid = idx[root_val]            # O(1) instead of .index()
+            root.left = build(left, mid - 1)    # everything left of mid in inorder
+            root.right = build(mid + 1, right)  # everything right of mid
+            return root
+
+        return build(0, len(inorder) - 1)
+
+        """ O(n2) time
 
         if not preorder:
             return None
@@ -20,3 +39,5 @@ class Solution:
         root.right = self.buildTree(preorder[1+i:], inorder[i+1:])
 
         return root
+
+        """
