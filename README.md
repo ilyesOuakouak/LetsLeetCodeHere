@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0752-open-the-lock) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -471,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
@@ -511,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
