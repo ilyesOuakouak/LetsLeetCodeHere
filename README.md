@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1584-min-cost-to-connect-all-points) |
 ## Hash Table
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1584-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
 | ------- |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1584-min-cost-to-connect-all-points](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -537,4 +540,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/0973-k-closest-points-to-origin) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ilyesOuakouak/LetsLeetCodeHere/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
